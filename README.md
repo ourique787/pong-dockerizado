@@ -3,7 +3,7 @@ Durante a aula de Plataformas Computacionais, realizei um clone do repositório:
 E dockerizei o jogo utlizando node.js 18 e ngrok.
 
 
-<!-- # multiplayer-pong
+ # multiplayer-pong
 An online multiplayer pong, full-stack web application made with Node.Js
 
 Live online version can be found at: https://pstefa-pong.herokuapp.com/ (US Server)
