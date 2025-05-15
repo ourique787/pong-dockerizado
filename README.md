@@ -2,6 +2,8 @@ Durante a aula de Plataformas Computacionais, realizei um clone do repositório:
 
 E dockerizei o jogo utlizando node.js 18 e ngrok.
 
+O objetivo foi unicamente praticar os conceitos de Docker, não desenvolver o jogo em sí.
+
 
  # multiplayer-pong
 An online multiplayer pong, full-stack web application made with Node.Js
