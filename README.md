@@ -1,8 +1,23 @@
-Durante a aula de Plataformas Computacionais, realizei um clone do repositório: https://github.com/pstefa1707/multiplayer-pong
+# Multiplayer Pong - Dockerizado
 
-E dockerizei o jogo utlizando node.js 18 e ngrok.
+Durante a aula de Plataformas Computacionais, realizei um clone do repositório original:  
+🔗 [https://github.com/pstefa1707/multiplayer-pong](https://github.com/pstefa1707/multiplayer-pong)
 
-O objetivo foi unicamente praticar os conceitos de Docker, não desenvolver o jogo em sí.
+O objetivo foi **unicamente praticar os conceitos de Docker**, utilizando **Node.js 18** e **ngrok** para tornar o jogo acessível externamente.  
+**Não houve intenção de desenvolver ou modificar a lógica do jogo em si.**
+
+---
+
+## ⚠️ Créditos e Licença
+
+Este projeto foi baseado no repositório original criado por **Paras Stefanopoulos**.  
+O projeto original está licenciado sob a **MIT License**.
+
+> Copyright (c) 2024 Paras Stefanopoulos  
+> Licensed under the MIT License.
+
+Para mais detalhes, veja o arquivo [`LICENSE`](./LICENSE).
+
 
 
  # multiplayer-pong
